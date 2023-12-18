@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is rptor
 =============================================================================================================================
 
 Coder
@@ -6,7 +6,6 @@ Coder
 
 * 🌍  I'm based in Czech Republic
 * 🖥️  See my portfolio at [rptor.site](http://rptor.site)
-* ✉️  You can contact me at [romanbolek.ml@gmail.com](mailto:romanbolek.ml@gmail.com)
 * 🧠  I'm learning HTML, CSS, JavaScript
 
 ### Skills
